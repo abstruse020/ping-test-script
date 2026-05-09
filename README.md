@@ -12,7 +12,7 @@ OUTPUT_FILE = "ping_log.csv"
 ```
 
 ### Run
-Then run the file [`test_ping.py`](test_ping.py), and `ctrl + c` to kill it. It stors the logs in ping_log.csv
+Then run the file [`test_ping.py`](test_ping.py), and `ctrl + c` to kill it. It stores the logs in ping_log.csv
 ```bash
 python test_ping.py
 ```
